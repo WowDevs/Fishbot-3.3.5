@@ -1,5 +1,4 @@
-# FishBot-3.3.5a
-
+# Fishbot
 World of Warcraft 3.3.5a 
  - Fishing Bot
  - Basic Rotation Bot (Supports DK at max level)
@@ -7,7 +6,9 @@ World of Warcraft 3.3.5a
 
 Developed for educational purposes.
 
-Note: Using this application on Live World of Warcraft servers WILL get you banned, 
-      and it is against their TOS agreement. Use at your own risk.
+Note: 
+- 100% safe on private servers
+- Do not use on live servers - you have a high chance of a ban.
+- Use at your own risk.
 
-![alt tag](http://i.imgur.com/KQKO9LT.png)	  
+![alt tag](http://i.imgur.com/abPpz6K.png)	  
