@@ -1,6 +1,6 @@
 # Fishbot
-World of Warcraft 3.3.5a 
- - Fishing Bot
+World of Warcraft 3.3.5a Fishing Bot
+ - Fishing 
  - Basic Rotation Bot (Supports DK at max level)
  - Follow target - will follow your current target forever. (using Click-to-move)
 
